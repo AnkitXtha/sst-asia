@@ -1,2 +1,1 @@
-# frontEnds
-All front-end projects/designs
+Smart Solutions Website
